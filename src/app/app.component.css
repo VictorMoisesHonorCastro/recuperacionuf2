@@ -1,0 +1,15 @@
+/* app.component.css */
+.photos-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photo {
+  margin: 10px;
+}
+
+.photo img {
+  width: 150px;
+  height: 150px;
+}
+
